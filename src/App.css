@@ -55,9 +55,8 @@ th {
 }
 
 button {
-  width: 5rem;
   margin: 0.5rem;
-  padding: 0.2rem;
+  padding: 0.3rem;
   border-radius: 0.5rem;
   cursor: pointer;
   transition: 0.5s;

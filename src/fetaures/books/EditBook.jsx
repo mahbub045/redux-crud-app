@@ -30,7 +30,7 @@ const EditBook = () => {
                     <input type="text" id="author" name="author" value={author} onChange={(e) => setAuthor(e.target.value)} required />
                 </div>
                 <div className='form-field'>
-                    <button type="submit">Update</button>
+                    <button type="submit">Update Book</button>
                 </div>
             </form>
         </div>
